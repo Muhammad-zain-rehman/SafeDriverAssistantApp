@@ -34,12 +34,11 @@
 
 ### Steps
 
-1. **Clone the Repository**
-   ```bash
+## 🖨️ 1. Clone the Repository
    git clone git@github.com:Muhammad-zain-rehman/SafeDriverAssistantApp.git
    cd safedrive-reminder
 
-## 🧑‍💻 Open in Android Studio
+## 🧑‍💻 2. Open in Android Studio
 
 1. Launch **Android Studio**.
 2. Click on **File > Open**.
@@ -47,7 +46,7 @@
 
 ---
 
-## ⚙️ Build the Project
+## ⚙️ 3. Build the Project
 
 1. Allow **Gradle** to sync the project.
 2. Wait for dependencies to finish downloading.
@@ -55,14 +54,14 @@
 
 ---
 
-## ▶️ Run the App
+## ▶️ 4. Run the App
 
 1. Select an **emulator** or connect a **physical Android device**.
 2. Click **Run > Run 'app'** from the top toolbar.
 
 ---
 
-## 🧪 Testing Notes
+## 🧪 5. Testing Notes
 
 - This app is optimized for testing on the **Android Automotive Landscape Emulator**.
 - For quicker testing, **you can reduce the 2-hour timer** to a shorter interval in the code.
